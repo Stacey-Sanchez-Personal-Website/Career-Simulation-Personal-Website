@@ -1,6 +1,7 @@
 body {
     padding: 0.5%;
     margin-top: 11%;
+    background-color: #ccb7ae;
 }
 
 header {
@@ -10,8 +11,8 @@ header {
     top: 0%;
     border-bottom-style: solid;
     width: 100%;
-    background-color: white;
-    padding-left: 0%;
+    margin-left: 0%;
+    background-color: #a6808c; 
 }
 
 nav{
@@ -36,6 +37,7 @@ p { font-size: 40px;
     margin: 5%;
     text-align: center;
     padding-top: 3%;
+    background-color: #d6cfcb;
     
 }
 
