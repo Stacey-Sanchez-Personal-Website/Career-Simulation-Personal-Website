@@ -39,3 +39,9 @@ img {
 html {
     background-color:#ccb7ae;
 }
+
+h4{
+    border-style: solid;
+    background-color: #d6cfcb;
+    padding: 1%;
+}
