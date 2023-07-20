@@ -33,7 +33,8 @@ h3, h4, p {
 img {
     max-height: 40%;
     max-width: 40%;
-    display: grid;
+    margin-left: 25%;
+    
     
 }
 
